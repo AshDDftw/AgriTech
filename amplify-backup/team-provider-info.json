@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-agritech-staging-171244-authRole",
+      "UnauthRoleArn": "arn:aws:iam::972451105760:role/amplify-agritech-staging-171244-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::972451105760:role/amplify-agritech-staging-171244-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-agritech-staging-171244-deployment",
+      "UnauthRoleName": "amplify-agritech-staging-171244-unauthRole",
+      "StackName": "amplify-agritech-staging-171244",
+      "StackId": "arn:aws:cloudformation:ap-south-1:972451105760:stack/amplify-agritech-staging-171244/223b7d40-b300-11ee-88dd-02f7a65656b3",
+      "AmplifyAppId": "d2g0tc3m7wb3t6"
+    }
+  }
+}
