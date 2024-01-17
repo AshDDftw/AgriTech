@@ -9,7 +9,16 @@
       "UnauthRoleName": "amplify-agritech-staging-171244-unauthRole",
       "StackName": "amplify-agritech-staging-171244",
       "StackId": "arn:aws:cloudformation:ap-south-1:972451105760:stack/amplify-agritech-staging-171244/223b7d40-b300-11ee-88dd-02f7a65656b3",
-      "AmplifyAppId": "d2g0tc3m7wb3t6"
+      "AmplifyAppId": "d2g0tc3m7wb3t6",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-agritech-staging-171244-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "AgriTech": {}
+      },
+      "function": {
+        "restlambda": {}
+      }
     }
   }
 }

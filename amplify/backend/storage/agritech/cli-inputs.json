@@ -1,0 +1,14 @@
+{
+  "resourceName": "agritech",
+  "policyUUID": "f43c3101",
+  "bucketName": "agritechbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
